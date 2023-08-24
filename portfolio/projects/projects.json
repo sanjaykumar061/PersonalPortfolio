@@ -1,0 +1,45 @@
+[
+  
+  
+  {
+    "name": "E medical Site",
+    "desc":"Designed using JSP as Frontend and SQL as database. The Front end tools are HTML,CSS and Javascript.The E-Medical Site is an online platform aimed at providingcomprehensive healthcare services and information to users",
+    "image": "medicalstore",
+    "category": "web application",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/sanjaykumar061/E-medicalsite"
+    }
+  },
+  {
+    "name": "Collge Admission System",
+    "desc": "Using Java JDBC, Insertion,Deletion,Updation will get  performed with MYSQL as back-end.",
+    "image": "clgadmit",
+    "category": "console application",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/sanjaykumar061/College-Admission-System"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfolio1",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/jigar-sable/Portfolio-Website"
+    }
+  },
+  
+  {
+    "name": "Ai Voice Recognition",
+    "desc": "Speech recognition is technology that can recognize spoken words,which can then be converted to text.The technology for identifying a person based on their voice.",
+    "image": "tsfbank",
+    "category": "lamp",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/sanjaykumar061/Ai-VoiceRecognition"
+    }
+  }
+]
